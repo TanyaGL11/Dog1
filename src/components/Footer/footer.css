@@ -1,0 +1,23 @@
+footer {
+  background-color: rgb(243, 231, 5);
+  color: #222;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer_copy {
+  font-size: 1.5em;
+}
+
+.footer_text {
+  text-align: right;
+}
+.n_logo{
+  font-size: 0.5em;
+  margin: 0;
+}
+
+.n_logo svg {
+  width: 120px;
+}
